@@ -1,3 +1,4 @@
 .vscode/
 data/*
+!data/message_example.json
 results.txt
