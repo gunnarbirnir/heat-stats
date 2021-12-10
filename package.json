@@ -1,0 +1,10 @@
+{
+  "name": "heat-stats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "heat": "yarn clean && node index.js | tee results.txt",
+    "clean": "rm -f data/.DS_Store"
+  }
+}
