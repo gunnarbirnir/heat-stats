@@ -2,3 +2,4 @@
 data/*
 !data/message_example.json
 results.txt
+.DS_Store
